@@ -1,2 +1,3 @@
 # US Health Insurance Forecast
- Forecasting charges vs variable
+ Creating linear regression model to predict charges value
+ source : https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset
